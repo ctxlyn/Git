@@ -2,5 +2,7 @@ Sample Notes
 
 Edited...
 
-git add . - to add all files
 git add fileName - to add specific file
+git push origin master - all codes for self. Branch
+
+Edit see updates.
