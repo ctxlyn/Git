@@ -1,1 +1,6 @@
 Sample Notes
+
+Edited...
+
+git add . - to add all files
+git add fileName - to add specific file
